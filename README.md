@@ -1,6 +1,6 @@
 # 🕹️ Knight Platformer
 
-2D platformer made in Godot as a learning exercise.
+2D platformer made in Godot.
 
 ![Demo](demo_files/demo.gif)
 
